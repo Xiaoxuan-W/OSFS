@@ -3,4 +3,4 @@ Here is the code of Online Stable Feature Set (OSFS) algorithm described in the 
 
 Wang, X., Samani, F. S., & Stadler, R. (2020, November). Online feature selection for rapid, low-overhead learning in networked systems. In 2020 16th International Conference on Network and Service Management (CNSM) (pp. 1-7). IEEE.
 
-The code will be available later.
+The code will be available soon.
